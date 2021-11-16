@@ -200,6 +200,23 @@ PKGS=(
 'zsh'
 'zsh-syntax-highlighting'
 'zsh-autosuggestions'
+'appimagelauncher' # Start of my own pkgs
+'clementine-git'
+'cool-retro-term'
+'discord'
+'gitkraken'
+'khotkeys'
+'nerd-fonts-complete'
+'noto-fonts-emoji'
+'obs-studio-tytan652'
+'packagekit'
+'packagekit-qt5'
+'retroarch-git'
+'spotify'
+'teamviewer'
+'vlc'
+'yakuake'
+'yt-dlp-drop-in'
 )
 
 for PKG in "${PKGS[@]}"; do
